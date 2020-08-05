@@ -1,0 +1,6 @@
+NODE_ENV=development
+PORT=3000
+DATABASE_URL=mongodb://localhost/rentals
+CORS_ORIGIN=http://localhost:3000
+JWT_KEY=fjasdnfjsdnfj
+STRIPE_SECRET_KEY=sk_test_fajiIMKsmd9Skdmk1mkmKMSdo

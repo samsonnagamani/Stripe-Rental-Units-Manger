@@ -1,5 +1,5 @@
-# 💹💹💰 Stripe Rental Units Manager API
-# 🏠🏡🏠 Property Managment API
+# 💹💹💰 Stripe Rental Units Manager
+# 🏠🏡🏠 Property Managment
 
 ## Implemented Functionality 🎉🎉
 
